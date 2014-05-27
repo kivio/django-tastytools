@@ -18,7 +18,7 @@ setup(
     },
     url="https://github.com/kivio/django-tastytools",
     author="kivio",
-    author_email="kivio@kivio.pl",
+    author_e0mail="kivio@kivio.pl",
     include_package_data=True,
     long_description="Tools for django-tastypie autotesting and documentation.",
 )
